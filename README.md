@@ -1,4 +1,2 @@
-# GradCenter-Capstone
-CUNY Graduate Center Capstone and Webpage
-
-Collection of my MS Data Analysis and Visualization webpage and files
+# CUNY Graduate Center Capstone
+The following is a collection of my MS Data Analysis and Visualization project, webpage, and files.
