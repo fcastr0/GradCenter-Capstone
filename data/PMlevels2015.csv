@@ -1,0 +1,35 @@
+Time,GeoType,GeoID,GeoRank,Geography,10th percentile mcg/m3,90th percentile mcg/m3,Mean mcg/m3
+Annual Average 2015,UHF34,101,3,Kingsbridge - Riverdale,8.85,9.83,9.17
+Annual Average 2015,UHF34,102,3,Northeast Bronx,8.71,10.04,9.13
+Annual Average 2015,UHF34,103,3,Fordham - Bronx Park,8.82,9.51,9.14
+Annual Average 2015,UHF34,104,3,Pelham - Throgs Neck,8.19,9.71,8.93
+Annual Average 2015,UHF34,201,3,Greenpoint,9.89,11.21,10.49
+Annual Average 2015,UHF34,202,3,Downtown - Heights - Slope,9.18,10.85,9.89
+Annual Average 2015,UHF34,203,3,Bedford Stuyvesant - Crown Heights,8.47,9.34,8.87
+Annual Average 2015,UHF34,204,3,East New York,8.03,9.85,8.72
+Annual Average 2015,UHF34,205,3,Sunset Park,8.46,10.62,9.45
+Annual Average 2015,UHF34,206,3,Borough Park,8.12,8.77,8.44
+Annual Average 2015,UHF34,207,3,East Flatbush - Flatbush,8.23,8.94,8.59
+Annual Average 2015,UHF34,208,3,Canarsie - Flatlands,7.45,9.12,8.1
+Annual Average 2015,UHF34,209,3,Bensonhurst - Bay Ridge,7.76,8.75,8.13
+Annual Average 2015,UHF34,210,3,Coney Island - Sheepshead Bay,7.37,8.08,7.72
+Annual Average 2015,UHF34,211,3,Williamsburg - Bushwick,8.5,11.44,9.61
+Annual Average 2015,UHF34,301,3,Washington Heights - Inwood,8.94,10.04,9.36
+Annual Average 2015,UHF34,302,3,Central Harlem - Morningside Heights,9.15,9.59,9.36
+Annual Average 2015,UHF34,303,3,East Harlem,9.22,9.78,9.51
+Annual Average 2015,UHF34,304,3,Upper West Side,9.5,10.06,9.78
+Annual Average 2015,UHF34,401,3,Long Island City - Astoria,8.76,11.39,9.78
+Annual Average 2015,UHF34,402,3,West Queens,8.21,11.24,9.17
+Annual Average 2015,UHF34,403,3,Flushing - Clearview,7.94,9.34,8.45
+Annual Average 2015,UHF34,405,3,Ridgewood - Forest Hills,7.99,9.1,8.51
+Annual Average 2015,UHF34,407,3,Southwest Queens,7.61,8.56,8.05
+Annual Average 2015,UHF34,408,3,Jamaica,7.82,8.68,8.2
+Annual Average 2015,UHF34,409,3,Southeast Queens,7.62,8.16,7.9
+Annual Average 2015,UHF34,410,3,Rockaway,6.95,7.29,7.16
+Annual Average 2015,UHF34,305307,3,Upper East Side - Gramercy,9.66,12.33,10.91
+Annual Average 2015,UHF34,306308,3,Chelsea - Village,10.02,12.45,11.13
+Annual Average 2015,UHF34,309310,3,"Union Square, Lower Manhattan",9.2,11.05,10.21
+Annual Average 2015,UHF34,404406,3,Bayside - Meadows,7.87,8.83,8.23
+Annual Average 2015,UHF34,501502,3,Northern SI,7.39,8.52,8
+Annual Average 2015,UHF34,503504,3,Southern SI,6.98,8.39,7.56
+Annual Average 2015,UHF34,105106107,3,South Bronx,8.91,10.55,9.63
